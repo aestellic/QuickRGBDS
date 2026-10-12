@@ -1,4 +1,8 @@
 # QuickRGBDS
+
+> [!NOTE]  
+> This is a mirror of M4n0z's repo, since his account got suspended.
+
 An RGBDS wrapper for Windows and Linux to compile ACE payloads quickly.
 
 ----
